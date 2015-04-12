@@ -1,9 +1,9 @@
 {
   "id": "jsonview@brh.numbera.com",
-  "version": "0.9",
+  "version": "0.9+jsonpath",
   "name": "jsonview",
   "title": "JSONView",
-  "description": "Views JSON in the browser.",
+  "description": "Views JSON in the browser, and filter using JSONPath.",
   "homepage": "http://jsonview.com/",
   "author": "Benjamin Hollis",
   "license": "MIT License",
@@ -18,7 +18,8 @@
   ],
   "contributors": [
     "Gabriel Barros",
-    "Quoc-Viet Nguyen"
+    "Quoc-Viet Nguyen",
+    "Luca Ferroni"
   ],
   "translators": [
     "markh van BabelZilla.org (nl)",
